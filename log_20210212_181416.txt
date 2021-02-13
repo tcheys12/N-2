@@ -1,0 +1,14 @@
+Total SubArray (synaptic core) area=1.0595e-08 m^2
+Total Neuron (neuron peripheries) area=1.6866e-09 m^2
+Total area=1.2282e-08 m^2
+Leakage power of subArrayIH is : 1.0788e-04 W
+Leakage power of subArrayHO is : 2.0124e-05 W
+Leakage power of NeuronIH is : 1.5533e-05 W
+Leakage power of NeuronHO is : 2.4850e-06 W
+Total leakage power of subArray is : 1.2801e-04 W
+Total leakage power of Neuron is : 1.8018e-05 W
+opt: SGD NL:5.00 N: 4 CS: 16 LA: 0.80
+countPotenIH: 4364368ProbabilityIH:0.132241
+countDepIH: 5424377ProbabilityIH:0.133597
+countPotenHO: 53976ProbabilityHO:0.0720455
+countDepHO: 443009ProbabilityHO:0.0745602
